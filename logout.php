@@ -5,4 +5,5 @@
 	session_destroy();
 	// Di chuyển đến trang index.php
 	header('Location: index.php');
+	// abc
 ?>
